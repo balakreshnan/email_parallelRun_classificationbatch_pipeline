@@ -9,6 +9,8 @@ __pycache__/
 .amlignore
 .config/
 *.amltmp
+.amlignore.amltmp
+.gitignore.amltmp
 
 # Distribution / packaging
 .Python
