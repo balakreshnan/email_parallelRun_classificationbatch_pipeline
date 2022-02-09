@@ -8,6 +8,7 @@ __pycache__/
 
 .amlignore
 .config/
+*.amltmp
 
 # Distribution / packaging
 .Python
